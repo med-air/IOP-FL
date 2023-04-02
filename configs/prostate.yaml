@@ -1,0 +1,10 @@
+lr: 0.001
+pretrain: False
+batch: 16
+comm_round: 500
+wk_iters: 1
+mode: 'fedavg'
+percent: 1.0
+client_optimizer: 'adam'
+alpha: 0.1
+     
