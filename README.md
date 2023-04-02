@@ -51,7 +51,7 @@ python main.py --data prostate --source BIDMC HK I2CVB ISBI_1.5 UCL --target ISB
 
 ## Citation
 If this repository is useful for your research, please cite:
-
+```
 @article{jiang2022iopfl,
     author={Jiang, Meirui and Yang, Hongzheng and Cheng, Chen and Dou, Qi},
     journal={IEEE Transactions on Medical Imaging}, 
@@ -59,6 +59,7 @@ If this repository is useful for your research, please cite:
     year={2023},
     doi={10.1109/TMI.2023.3263072}
 }  
+```
 
 ### Contact
 For any questions, please contact 'mrjiang@cse.cuhk.edu.hk' or 'hzyang05@gmail.com'
